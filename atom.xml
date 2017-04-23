@@ -1,85 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Litdaisy&#39;s Blog</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-22T16:03:04.622Z</updated>
+  <updated>2017-04-22T15:29:46.033Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Litdaisy</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>今天你吃了吗？</title>
-    <link href="http://yoursite.com/2017/04/22/are-you-eat-today/"/>
-    <id>http://yoursite.com/2017/04/22/are-you-eat-today/</id>
-    <published>2017-04-22T15:36:04.000Z</published>
-    <updated>2017-04-22T16:03:04.622Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="吃货是怎么养成的"><a href="#吃货是怎么养成的" class="headerlink" title="吃货是怎么养成的"></a>吃货是怎么养成的</h2><h3 id="强大的胃"><a href="#强大的胃" class="headerlink" title="强大的胃"></a>强大的胃</h3><p>吃货的形成离不开有一个怎么吃也吃不饱，即使吃了很多，过了一会还是饿得半死的。这就是因为他有一个强大的胃。</p>
-<p>吃货喜欢吃的食物：</p>
-<ul>
-<li>像风筝一样撑开的大鸡腿</li>
-<li>麻辣香锅中辣版</li>
-<li>过桥米线</li>
-</ul>
-<p>吃货喜欢吃的水果</p>
-<ol>
-<li>龙眼</li>
-<li>梨子</li>
-<li>香蕉</li>
-</ol>
-<table>
-<thead>
-<tr>
-<th style="text-align:left">你傻吗</th>
-<th>傻</th>
-<th>ok</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left">你蠢吗</td>
-<td>蠢</td>
-<td>yes</td>
-</tr>
-<tr>
-<td style="text-align:left">你笨吗</td>
-<td>笨</td>
-<td>hello</td>
-</tr>
-<tr>
-<td style="text-align:left">你猪头</td>
-<td>你才是头猪</td>
-<td>ye</td>
-</tr>
-</tbody>
-</table>
-<p><img src="http://www.easyicon.net/api/resizeApi.php?id=1066421&amp;size=128" alt="香蕉"></p>
-<p>小宝菊的<a href="http://litdaisy.github.io" target="_blank" rel="external">网站</a></p>
-<p><img src="http://oosy15d6j.bkt.clouddn.com/17-4-22/32628233-file_1492876746533_b437.jpg" alt="这就是我"></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;吃货是怎么养成的&quot;&gt;&lt;a href=&quot;#吃货是怎么养成的&quot; class=&quot;headerlink&quot; title=&quot;吃货是怎么养成的&quot;&gt;&lt;/a&gt;吃货是怎么养成的&lt;/h2&gt;&lt;h3 id=&quot;强大的胃&quot;&gt;&lt;a href=&quot;#强大的胃&quot; class=&quot;headerlink&quot; 
-    
-    </summary>
-    
-      <category term="吃货类" scheme="http://yoursite.com/categories/%E5%90%83%E8%B4%A7%E7%B1%BB/"/>
-    
-    
-      <category term="食物" scheme="http://yoursite.com/tags/%E9%A3%9F%E7%89%A9/"/>
-    
-      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
   
   <entry>
     <title>高效学习工作的神兵利器</title>
